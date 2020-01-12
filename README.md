@@ -22,7 +22,7 @@ Thes csv files are the original graph data
 Cypher file contain command to import data into neo4j
 
 # Result<a name="results"></a>
-
+![Screenshot 1](https://github.com/haataa/history_knowledge_graph/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200112112540.png)
 
 # Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Data are created by me
