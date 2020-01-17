@@ -15,6 +15,7 @@ After discussing with a friend, I believe it would probably be a good idea to bu
 2) How to solve name ambigiouity of events?
 3) Is there a better way to build this graph?
 4) Can I make it an online tool?
+Try use this one:https://github.com/grapheco/InteractiveGraph
 5) What conclusions can I make from this graph?
 
 # File Descriptions<a name="files"></a>
