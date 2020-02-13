@@ -12,6 +12,7 @@ After discussing with a friend, I believe it would probably be a good idea to bu
 
 # Problems to be solved<a name="Installation"></a>
 1) How to abstract these knowledge automatically?
+DATA SOURCE--NER--ENTITY LINK
 2) How to solve name ambigiouity of events?
 3) Is there a better way to build this graph?
 4) Can I make it an online tool?
